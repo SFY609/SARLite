@@ -34,6 +34,8 @@ SARLite/
 │
 └── README.md
 
+---
+
 ## 📁 Dataset
 
 All experiments in the accompanying paper were conducted using SARDet-100K, a large-scale benchmark dataset for SAR object detection.
