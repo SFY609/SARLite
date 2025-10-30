@@ -29,7 +29,9 @@ These components collectively form the **SARLite** model variant used in our pap
 SARLite/
 │
 ├── SARLite.py/ # Implementation of custom modules
+│
 ├── yolo11_sarlite.yaml/ # Model configuration file
+│
 └── README.md
 
 ## 📁 Dataset
