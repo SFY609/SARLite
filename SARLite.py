@@ -1,10 +1,8 @@
 """SARLite module
 
 This file includes the original implementations of a small set of modules used
-by the `yolo11s-LightHGNetV2-X-DySample.yaml` model config.
+by the `yolo11_sarlite.yaml` model config.
 
-It intentionally mirrors the original implementations from the project and is
-meant for packaging / reporting purposes.
 """
 
 from __future__ import annotations
@@ -239,3 +237,4 @@ def get_registry() -> Dict[str, Type]:
         "DWConv": DWConv,
         "Dy_Sample": Dy_Sample,
     }
+
